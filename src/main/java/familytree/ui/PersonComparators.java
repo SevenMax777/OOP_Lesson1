@@ -1,4 +1,4 @@
-package familytree.util;
+package familytree.ui;
 
 import familytree.model.Person;
 
